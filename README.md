@@ -3,6 +3,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyLeeJH)](https://github.com/JennyLeeJH/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyLeeJH&show_icons=true&theme=buefy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyLeeJH&show_icons=true&title_color=ff9529&icon_color=86c000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyLeeJH&show_icons=true&title_color=ffffff&icon_color=ff3860&bg_color=DEG,dccdff,a882ff,8d5cff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyLeeJH&layout=compact&theme=buefy)
 
