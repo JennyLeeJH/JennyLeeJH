@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70)
 
-![header](https://capsule-render.vercel.app/api?text=Hello%Jenny%World!&type=waving&color=0:ffa8a8,100:8b59ff&fontColor=)
+![header](https://capsule-render.vercel.app/api?height=250&text=Hello%20Jenny%20World!&type=waving&color=0:ffa8a8,100:8b59ff&fontColor=ffffff&fontSize=80&section=footer&animation=scaleIn&fontAlignY=65)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyLeeJH)](https://github.com/JennyLeeJH/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyLeeJH&show_icons=true&theme=buefy) -->
