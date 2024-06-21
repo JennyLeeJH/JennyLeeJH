@@ -9,7 +9,7 @@
 <br><br>
 
 <p align="center">
-  <Strong>💌 Email 💌</Strong><br>jeonghwa5530@gmail.com<br>
+  <Strong>💌 Email 💌</Strong><br>i__hwa@naver.com<br>
 </p>
 
 <br><br>
